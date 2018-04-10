@@ -1,2 +1,4 @@
 # BroncoRun-Java-game
-Implement a 2D game on Java using Swings and AWT Components. This game includes a character (Bronco) who can move right, left and jump to avoid obstacles. Bronco has ability to throw darts at the enemies. Enemies can stop Bronco by touching him. 
+•	Developed a 2D game, where a character named Bronco can be controlled by user and can move right, left, can jump to avoid obstacle or enemy, can glide/fly and punch an enemy.
+•	Used gaming concepts like game loop and collision detection to implement game logic.
+•	Used Object Oriented Principles like Abstraction, Encapsulation, Hierarchy and Modularity to implement complex code and for easy testing and debugging of code logic.
