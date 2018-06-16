@@ -5,6 +5,9 @@ import java.awt.image.BufferedImage;
 public class Animation 
 {
 
+	//This is a change for testing git
+	//Hello 
+	
 	private BufferedImage[] imageFrames;
 	private int currentImageFrame;
 	private long t0,delay;
@@ -13,6 +16,7 @@ public class Animation
 	
 	public  Animation() {
 		animationUsedOnce = false;
+		System.out.println("HELLOOOOO");
 	}
 	
 	public void setFrames(BufferedImage[] frames) {
